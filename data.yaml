@@ -1,0 +1,5 @@
+train: train/images
+val: valid/images
+
+nc: 19
+names: ['Alef Bkasra', 'Alef', 'Baa', 'Daa', 'Eiin', 'Five', 'Four', 'Geem', 'Haa Marbota', 'Haa', 'Lam', 'Meem', 'Noon', 'Raa', 'Seen', 'Taa Marbota', 'Waw', 'Yaa', 'Zero']
