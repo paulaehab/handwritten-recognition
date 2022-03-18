@@ -1,5 +1,3 @@
-# handwritten-recognition
-
 #### This is A deep learning model for Arabic handwriting text recognition with precision 93.5% .
  
 ## How to run the code.
